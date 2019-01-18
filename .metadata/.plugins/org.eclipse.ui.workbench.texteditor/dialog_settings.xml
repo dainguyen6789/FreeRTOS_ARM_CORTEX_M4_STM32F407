@@ -2,18 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="GPIOA" key="selection"/>
+		<item value="xHigherPriorityTaskWoken" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="xHigherPriorityTaskWoken"/>
+			<item value="xSemaphoreGiveFromISR"/>
+			<item value="xSemaphoreCreateCounting"/>
+			<item value="exti"/>
+			<item value="configkernel"/>
 			<item value="GPIOA"/>
 			<item value="apb1pe"/>
 			<item value="idle"/>
-			<item value="hook"/>
-			<item value="systemcoreclock"/>
-			<item value="syscoreclock"/>
 		</list>
 		<list key="replacehistory">
 		</list>
